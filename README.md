@@ -40,7 +40,7 @@ The script generates an interactive candlestick chart using Plotly, highlighting
 
 ## Examples
 
-For a quick demonstration, refer to the provided Jupyter Notebook file (`crypto_market_analysis.ipynb`) in this repository.
+For a quick demonstration, refer to the provided Jupyter Notebook file (`crypto-engulfing-pinbar-chart.ipynb`) in this repository.
 
 ## Contributing
 
