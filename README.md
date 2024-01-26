@@ -16,7 +16,7 @@ pip install ccxt pandas plotly
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/your-repository.git](https://github.com/RezaGonabadi77/crypto-filter-watchlist.git)
+git clone [https://github.com/RezaGonabadi77/crypto-filter-watchlist.git](https://github.com/RezaGonabadi77/crypto-filter-watchlist.git)
 
 2. Navigate to the project directory:
 
